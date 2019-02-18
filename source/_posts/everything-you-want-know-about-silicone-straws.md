@@ -10,7 +10,7 @@ tags:
 
 ### We cover a lot of the common questions consumers have regarding silicone reusable straws.
 
-Along with people’s awareness of environment protection, the eco-friendly alternatives for plastic straws are popular nowadays. Many consumers have moved away from disposable plastic straws in favor of eco-friendly, BPA-free reusable [silicone straws](https://www.bubirdstraw.com). Below we cover a lot of the common questions consumers have regarding silicone reusable straws.
+Along with people’s awareness of environment protection, the eco-friendly alternatives for plastic straws are popular nowadays. Many consumers have moved away from disposable plastic straws in favor of eco-friendly, BPA-free reusable [silicone straws](http://www.bubirdstraw.com). Below we cover a lot of the common questions consumers have regarding silicone reusable straws.
 
 ![](/images/1.png)
 
