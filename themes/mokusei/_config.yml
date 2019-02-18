@@ -1,0 +1,63 @@
+# site
+name: AOREG
+description: Kitchen Stuff
+favicon: /images/favicon.png
+banner: /images/head.png
+rss:  
+
+# navigation
+menu:
+  Home:
+    url: /
+    icon: home
+    iconType: fa
+  About Us:
+    url: about/
+    icon: id-badge
+    iconType: fa
+  Archives:
+    url: archives/
+    icon: archive
+    iconType: fa
+  Delicious Chocolate:
+    url: categories/delicious-chocolate/
+    icon: chevron-circle-right
+    iconType: fa
+  Dishes Cleanser:
+    url: categories/dishes-cleanser/
+    icon: chevron-circle-right
+    iconType: fa
+  Health:
+    url: categories/healthy-carbonated-drinks/
+    icon: chevron-circle-right
+    iconType: fa
+  Kitchen Towel:
+    url: categories/kitchen-towel/
+    icon: chevron-circle-right
+    iconType: fa
+  Straws:
+    url: categories/straws/
+    icon: chevron-circle-right
+    iconType: fa
+# Social account
+account:
+  facebook:
+    url: /
+    icon: facebook
+    iconType: fa
+  mail:
+    url: /
+    icon: envelope
+    iconType: fa
+  twitter:
+    url: /
+    icon: twitter
+    iconType: fa
+
+  # Comment system
+comment:
+  disqus:
+    shortname:  
+  
+  # Features
+ifsparticle:  false

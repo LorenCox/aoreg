@@ -1,0 +1,45 @@
+// ------------------------------
+// 左边栏
+// ------------------------------
+
+.sidebar
+    position absolute
+    top 0
+    left 0
+    width 250px
+    height 100%
+    overflow auto
+    background-color $bar_color
+    > ul
+        > li
+            position relative
+            border(bottom, 1px solid #1d1d1d)
+            font-size 18px
+            a
+                i
+                    padding-right 10px
+                display block
+                font-size 18px
+                padding 25px 30px
+                color #606060
+                text-align right
+                transition()
+                span
+                    word-break keep-all
+                &:hover
+                &.active
+                    @extend .nav_active
+                    + span
+                        color #fff
+            .drop-flag
+                position absolute
+                right 25px
+                top 30px
+                color #606060
+            ul
+                background-color #151515
+                a
+                    font-size 16px
+
+
+
